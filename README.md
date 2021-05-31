@@ -1,0 +1,1 @@
+# Frontend-Mentor_Interactive-pricing-component
